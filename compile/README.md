@@ -6,7 +6,7 @@
 
 #### Running on a single source file ####
 The simplest way to use `compile` is to run it against a single source file:</br>
-<\t>compile myfile.cpp
+&emsp;compile myfile.cpp
 
 If you forget to include the filename, you will be prompted for the filename:</br>
-<\t>Enter file name to compile:
+&emsp;Enter file name to compile:
