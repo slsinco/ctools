@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
         string fullname = "";
 
         if (argc<2) {
-                cout << "Enter file name to compile ";
+                cout << "Enter file name to compile: ";
                 cin.getline(file, 100);
                 fullname = file;
         } else if (argc>1 && argc<3) {
