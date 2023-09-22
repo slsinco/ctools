@@ -6,4 +6,4 @@
 (e.g., the local password file /etc/passwd, NIS, and LDAP) that matches the username requested.
 
 #### `getuser` Usage ####
-Usage: getuser <user>
+Usage: getuser user
