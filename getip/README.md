@@ -1,2 +1,9 @@
+# getip #
 
-Here is a simple method to find hostname and IP address using C program.
+## Instructions for users ##
+
+`getip` is a simple tool used to find hostname and IP address using C program.
+
+```
+getip
+```
